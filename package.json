@@ -3,10 +3,18 @@
   "version": "1.0.0",
   "description": "My run of Build your own React by Rodrigo Pombo",
   "main": "didact.js",
+  "scripts": {
+    "build": "babel src -d dist"
+  },
   "repository": "rbattiato/didact",
   "keywords": [
     "react"
   ],
   "author": "rbattiato",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.20.7",
+    "@babel/core": "^7.20.12",
+    "@babel/preset-react": "^7.18.6"
+  }
 }
