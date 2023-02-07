@@ -1,0 +1,12 @@
+{
+  "name": "didact",
+  "version": "1.0.0",
+  "description": "My run of Build your own React by Rodrigo Pombo",
+  "main": "didact.js",
+  "repository": "rbattiato/didact",
+  "keywords": [
+    "react"
+  ],
+  "author": "rbattiato",
+  "license": "MIT"
+}
